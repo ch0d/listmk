@@ -69,7 +69,7 @@ void print_help(char *prog)
            "/p = !\"#$%%&'()*+,-./:;<=>?@[\\]^_`{|}~\n"
            "/l = /a + /A\n"
            "=====================================\n\n"
-           "Created by The Kh40s.\n",
+           "Created by Ryan R.\n",
            prog);
 }
 
